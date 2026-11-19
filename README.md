@@ -22,7 +22,7 @@ Results
 
 MKI67 expression was higher in tumour samples compared with normal samples.
 
-"MKI67 Tumour vs Normal" (Results/Figure_1_MKI67_Tumor_vs_Normal.png)
+"MKI67 Tumour vs Normal" (Figure_1_MKI67_Tumor_vs_Normal.png)
 
 2. Overall Survival Analysis
 
@@ -33,7 +33,7 @@ MKI67 expression was higher in tumour samples compared with normal samples.
 
 The survival analysis did not show a statistically significant difference between the two groups.
 
-"MKI67 Overall Survival" (Results/Figure_2_MKI67_Overall_Survival.png)
+"MKI67 Overall Survival" (Figure_2_MKI67_Overall_Survival.png)
 
 Conclusion
 
