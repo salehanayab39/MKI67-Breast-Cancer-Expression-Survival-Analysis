@@ -22,7 +22,7 @@ Results
 
 MKI67 expression was higher in tumour samples compared with normal samples.
 
-"MKI67 Tumour vs Normal" (Figure_1_MKI67_Tumor_vs_Normal.png)
+"MKI67 Tumour vs Normal" (Figure 1 MKI67_boxplot_Tumour vs normal.png)
 
 2. Overall Survival Analysis
 
